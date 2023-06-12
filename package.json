@@ -1,0 +1,11 @@
+{
+  "name": "tp4-lucas-cardenas",
+  "version": "1.0.0",
+  "description": "trabajo practico n4",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LucasCardenas",
+  "license": "ISC"
+}
